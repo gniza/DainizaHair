@@ -1,5 +1,5 @@
 // Troque somente este número pelo WhatsApp da Dainiza (DDI + DDD + número).
-const WHATSAPP_NUMBER = "5511999999999";
+const WHATSAPP_NUMBER = "554391000999";
 const WHATSAPP_MESSAGE = "Olá, Dainiza! Vim pelo seu site e gostaria de agendar um horário.";
 
 const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(WHATSAPP_MESSAGE)}`;
